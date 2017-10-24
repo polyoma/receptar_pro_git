@@ -1,0 +1,5 @@
+git init - zaène sledovat sloku
+git status - informace o sloce a zmìnach
+git add name_of_file.abc - zaène sledovat danı soubor
+git gui - spustí git gui, kterı je uivatelsky pøátelskı a nepotøebuje ovládání pøes pøíkazovou øádku. 
+ 
