@@ -5,4 +5,5 @@ git gui - spustí git gui, který je uživatelsky pøátelský a nepotøebuje ovládání 
 git commit -m "co se zmìnilo"
 git config --global user.name "jmeno"
 git config -- global user.email "email" 
- 
+git log - vypíše info zmìn
+gitk - zapne gitk, další prohlížecí program
